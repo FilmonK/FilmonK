@@ -5,12 +5,13 @@ Rabbit holes terrify me these days which is why I'm staying away from Unity and 
 
 
 Passions away from the screen:
- - Traveling (...really just getting lost)
- - Building projects that may have no real use outside of 10 people
- - Hiking
- - Boxing
- - Basketball
- - Foreign language learning
+- :earth_africa: Traveling (...really just getting lost)
+- :roller_coaster: Building projects that may have no real use outside of 10 people
+- :tent: Everything outdoors
+- :facepunch: Boxing
+- :basketball: Basketball
+- :speech_balloon: Foreign language learning
+
  
  
  <h3>Programming Languages</h3>
@@ -44,7 +45,9 @@ Passions away from the screen:
 
 
 <h3>Projects</h3>
-Efforts of joy that take up the little free time I do possess. Most of these originated as a suggestion from a friend or cousin and continue to grow in scope.
+Efforts of joy that take up the little free time I do possess. Most of these originated as a suggestion from a friend or cousin and continue to grow in scope...thinking it's about time for that :goat: debate bot.
+
+![alt text](https://github.com/FilmonK/sports_analysis/blob/master/images/michael.jpg?raw=true)
 
 
 <a href="https://github.com/filmonk/whatsapp_multi">
