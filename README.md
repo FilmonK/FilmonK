@@ -42,6 +42,23 @@ Passions away from the screen:
 </p>
 
 
-Projects
+<h3>Projects</h3>
+<a href="https://github.com/filmonk/whatsapp_multi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=whatsapp_multi&cache_seconds=86400&theme=nord" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=whatsapp_multi)](https://github.com/filmonk/whatsapp_multi)
+<a href="https://github.com/filmonk/sports_analysis">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=sports_analysis&cache_seconds=86400&theme=nord" />
+</a>
+
+<a href="https://github.com/filmonk/LeasingM">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=LeasingM&cache_seconds=86400&theme=nord" />
+</a>
+
+<a href="https://github.com/filmonk/cryptodashboard">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=cryptodashboard&cache_seconds=86400&theme=nord" />
+</a>
+
+<a href="https://github.com/filmonk/na-r_api">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=na-r_api&cache_seconds=86400&theme=nord" />
+</a>
