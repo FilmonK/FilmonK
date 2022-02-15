@@ -1,0 +1,47 @@
+👋 Hey whats up, I’m @FilmonK
+
+An enthusiastic developer who should be working on a bot to handle all Jordan vs Lebron GOAT arguments I seem to find myself in regularly. 
+Rabbit holes terrify me these days which is why I'm staying away from Unity and Rust development.
+
+
+Passions away from the screen:
+ - Traveling (...really just getting lost)
+ - Building projects that may have no real use outside of 10 people
+ - Hiking
+ - Boxing
+ - Basketball
+ - Foreign language learning
+ 
+ 
+ <h3>Programming Languages</h3>
+ <p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge" />  
+</p>
+
+
+<h3>Frameworks and Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppeteer-00C58E?style=for-the-badge" />
+  
+</p>
+
+
+<h3>Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+</p>
+
+
+Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=whatsapp_multi)](https://github.com/filmonk/whatsapp_multi)
