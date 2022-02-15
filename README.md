@@ -1,4 +1,4 @@
-👋 Hey whats up, I’m @FilmonK
+<h2>👋 Hey whats up, I’m @FilmonK</h2>
 
 An enthusiastic developer who should be working on a bot to handle all Jordan vs Lebron GOAT arguments I seem to find myself in regularly. 
 Rabbit holes terrify me these days which is why I'm staying away from Unity and Rust development.
@@ -30,7 +30,8 @@ Passions away from the screen:
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Puppeteer-00C58E?style=for-the-badge" />
-  
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 
@@ -43,6 +44,9 @@ Passions away from the screen:
 
 
 <h3>Projects</h3>
+Efforts of joy that take up the little free time I do possess. Most of these originated as a suggestion from a friend or cousin and continue to grow in scope.
+
+
 <a href="https://github.com/filmonk/whatsapp_multi">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=whatsapp_multi&cache_seconds=86400&theme=nord" />
 </a>
