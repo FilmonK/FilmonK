@@ -47,7 +47,7 @@ Passions away from the screen:
 <h3>Projects</h3>
 Efforts of joy that take up the little free time I do possess. Most of these originated as a suggestion from a friend or cousin and continue to grow in scope...thinking it's about time for that :goat: debate bot.
 
-![alt text](https://github.com/FilmonK/sportsanalysis/blob/master/readme_images/jordan.jpg?raw=true)
+![alt text](https://github.com/FilmonK/sportsanalysis/blob/master/readme_images/jordan.jpeg?raw=true)
 
 
 <a href="https://github.com/filmonk/whatsapp_multi">
