@@ -54,7 +54,7 @@ Efforts of joy that take up the little free time I do possess. Most of these ori
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=whatsapp_multi&cache_seconds=86400&theme=nord" />
 </a>
 
-<a href="https://github.com/filmonk/sports_analysis">
+<a href="https://github.com/filmonk/sportsanalysis">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=sportsanalysis&cache_seconds=86400&theme=nord" />
 </a>
 
