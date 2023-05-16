@@ -68,9 +68,3 @@ Efforts of joy that take up the little free time I do possess. Most of these ori
 <a href="https://github.com/filmonk/logging_mongo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=logging_mongo&cache_seconds=86400&theme=nord" />
 </a>
-
-
-<a href="https://github.com/filmonk/cryptock">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=cryptock&cache_seconds=86400&theme=nord" />
-</a>
-
