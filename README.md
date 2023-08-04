@@ -50,8 +50,6 @@ Efforts of joy that take up the little free time I do possess. Most of these ori
 ![alt text](https://github.com/FilmonK/sportsanalysis/blob/master/readme_images/jordan.jpeg?raw=true)
 
 
-<a href="https://github.com/filmonk/whatsapp_multi">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filmonk&repo=whatsapp_multi&cache_seconds=86400&theme=nord" />
-</a>
+
 
 
